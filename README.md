@@ -25,7 +25,7 @@
   - جنس المدرسة
   - اسم المدرسة
 
-##<img width="697" height="339" alt="Screenshot 2026-05-10 221253" src="https://github.com/user-attachments/assets/031b0f18-7706-4edc-aa03-9e06769a4de8" />
+
  محتوى المستودع
 - education outcomes.ipynb — كود Python كامل
 - all_regions_clean.xlsx — البيانات النظيفة
